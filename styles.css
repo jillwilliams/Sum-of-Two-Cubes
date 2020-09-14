@@ -18,6 +18,45 @@ h1 {
     text-align: center;
     margin: 15px 12.5%;
 }
+#in1, #in2, #in3 {
+    width: 10%;
+    height: 50px;
+    border: 2px violet solid;
+    outline: 1px black solid;
+    text-align: center;
+    font-size: 1.5rem;
+    color: black;
+    font-family: "Shadows Into Light";
+}
+#btn1 {
+    width: 20%;
+    height: 50px;
+    border: 2px violet solid;
+    outline: 1px black solid;
+    text-align: center;
+    font-size: 1.5rem;
+    color: black;
+    font-family: "Shadows Into Light";
+    margin: 15px;
+}
+#demo, #demo2 {
+    width: 55%;
+    height: 50px;
+    border: 2px violet solid;
+    outline: 1px black solid;
+    text-align: center;
+    font-size: 1.5rem;
+    color: black;
+    font-family: "Shadows Into Light";
+    margin: 15px;
+    background-color: white;
+}
+
+
+
+
+
+
 iframe {
     margin: 15px 33%;
     border: 2px violet solid;
