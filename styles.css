@@ -1,0 +1,29 @@
+body {
+    margin: 25px;
+    font-family: "Shadows Into Light";
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    color: lightseagreen;
+    background-color: lightgoldenrodyellow;
+}
+h1 {
+    font-size: 1.5rem;
+    text-align: center;
+}
+#div1 {
+    width: 75%;
+    height: auto;
+    border: 2px violet solid;
+    outline: 1px black solid;
+    text-align: center;
+    margin: 15px 12.5%;
+}
+iframe {
+    margin: 15px 33%;
+    border: 2px violet solid;
+    outline: 1px black solid;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
